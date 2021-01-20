@@ -42,7 +42,7 @@
     <br />
     <a href="https://github.com/SourceWriters/rwg-presets/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SourceWriters/rwg-presets/issues">Request Feature</a>
+    <a href="https://github.com/SourceWriters/rwg-presets/issues">Request Preset</a>
   </p>
 </p>
 
