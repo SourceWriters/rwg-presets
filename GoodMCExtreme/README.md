@@ -1,6 +1,7 @@
 <p align="center">
   <h3 align="center">World generation preset</h3>
   <h3 align="center">« GoodMC Extreme »</h3>
+  <h5 align="center">by GoodMC.ru</h5>
 
   <p align="center">
     <br />
