@@ -5,9 +5,9 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/SourceWriters/rwg-presets/issues/new?labels=bug&title=[Mars]%20Bug%20found">Report Bug</a>
+    <a href="https://github.com/Waywardson22/Tavern-Compendium/issues/new?labels=bug&title=[RWG]%20Bug%20found">Report Bug</a>
     ·
-    <a href="https://github.com/SourceWriters/rwg-presets/issues/new?labels=enhancement&title=[Mars]%20Structure%20request">Request a structure</a>
+    <a href="https://github.com/Waywardson22/Tavern-Compendium/issues/new?labels=enhancement&title=[RWG]%20Structure%20request">Request a structure</a>
   </p>
 </p>
 
