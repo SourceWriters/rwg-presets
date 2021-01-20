@@ -144,5 +144,5 @@ Project Link: [https://github.com/SourceWriters/rwg-presets](https://github.com/
 [rwg-spigot-url]: https://www.spigotmc.org/resources/1-8-1-16-5-realisticworldgenerator.15905/
 [rwg-polymart-url]: https://polymart.org/resource/realistic-world-generator.124/
 
-[preset-goodmc]: https://github.com/SourceWriters/rwg-presets/tree/master/GoodMC%20Extreme
+[preset-goodmc]: https://github.com/SourceWriters/rwg-presets/tree/master/GoodMCExtreme
 [preset-Islands]: https://github.com/SourceWriters/rwg-presets/tree/master/Islands
