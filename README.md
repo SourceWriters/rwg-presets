@@ -84,11 +84,11 @@ Then follow the normal RWG Installation steps to create a world and you're done.
 <!-- CONTRIBUTING -->
 ## Examples
 
-[**Islands**]() by SyntaxPhoenix
+[**Islands**]("Islands") by SyntaxPhoenix
 <br />
 <img src="Islands/images/Island.jpg">
 <br />
-[**GoodMC Extreme**]() by GoodMC.ru
+[**GoodMC Extreme**]("GoodMC Extreme") by GoodMC.ru
 <br />
 <img src="GoodMC Extreme/images/Taiga.jpg" />
 <br />
