@@ -1,0 +1,198 @@
+ores:
+  veins:
+    biome_layers:
+      paste: false
+    type: 1
+    enabled: true
+  base:
+    block: minecraft:stone
+blocks:
+  polished-diorite:
+    amount:
+      min: 1
+      max: 1
+    chance: 0.0
+    material: minecraft:polished_diorite
+    height:
+      min: 0
+      max: 120
+  dirt:
+    amount:
+      min: 10
+      max: 20
+    chance: 8.0
+    material: minecraft:dirt
+    height:
+      min: 0
+      max: 120
+  polished-andesite:
+    amount:
+      min: 1
+      max: 1
+    chance: 0.0
+    material: minecraft:polished_andesite
+    height:
+      min: 0
+      max: 120
+  hardened-clay:
+    amount:
+      min: 1
+      max: 1
+    chance: 0.0
+    material: minecraft:terracotta
+    height:
+      min: 0
+      max: 120
+  clay:
+    amount:
+      min: 4
+      max: 20
+    chance: 5.0
+    material: minecraft:clay
+    height:
+      min: 0
+      max: 256
+  red-sand:
+    amount:
+      min: 1
+      max: 1
+    chance: 0.0
+    material: minecraft:red_sand
+    height:
+      min: 0
+      max: 120
+  gold:
+    amount:
+      min: 4
+      max: 9
+    chance: 22.5
+    material: minecraft:gold_ore
+    height:
+      min: 0
+      max: 32
+  gravel:
+    amount:
+      min: 3
+      max: 20
+    chance: 1146.0
+    material: minecraft:gravel
+    height:
+      min: 0
+      max: 256
+  moss:
+    amount:
+      min: 1
+      max: 5
+    chance: 0.0
+    material: minecraft:mossy_cobblestone
+    height:
+      min: 0
+      max: 64
+  sand:
+    amount:
+      min: 1
+      max: 5
+    chance: 0.0
+    material: minecraft:sand
+    height:
+      min: 0
+      max: 120
+  diamond:
+    amount:
+      min: 1
+      max: 8
+    chance: 6.0
+    material: minecraft:diamond_ore
+    height:
+      min: 0
+      max: 16
+  polished-granite:
+    amount:
+      min: 1
+      max: 1
+    chance: 0.0
+    material: minecraft:polished_granite
+    height:
+      min: 0
+      max: 120
+  cobblestone:
+    amount:
+      min: 5
+      max: 15
+    chance: 5.0
+    material: minecraft:cobblestone
+    height:
+      min: 0
+      max: 256
+  granite:
+    amount:
+      min: 5
+      max: 15
+    chance: 3274.0
+    material: minecraft:granite
+    height:
+      min: 0
+      max: 256
+  iron:
+    amount:
+      min: 4
+      max: 9
+    chance: 172.0
+    material: minecraft:iron_ore
+    height:
+      min: 0
+      max: 67
+  coal:
+    amount:
+      min: 4
+      max: 17
+    chance: 413.0
+    material: minecraft:coal_ore
+    height:
+      min: 0
+      max: 128
+  lapis:
+    amount:
+      min: 4
+      max: 7
+    chance: 9.57
+    material: minecraft:lapis_ore
+    height:
+      min: 0
+      max: 32
+  andesite:
+    amount:
+      min: 5
+      max: 15
+    chance: 3274.0
+    material: minecraft:andesite
+    height:
+      min: 0
+      max: 256
+  redstone:
+    amount:
+      min: 4
+      max: 8
+    chance: 58.5
+    material: minecraft:redstone_ore[lit=false]
+    height:
+      min: 0
+      max: 16
+  emerald:
+    amount:
+      min: 1
+      max: 1
+    chance: 0.034
+    material: minecraft:emerald_ore
+    height:
+      min: 0
+      max: 32
+  diorite:
+    amount:
+      min: 5
+      max: 15
+    chance: 3274.0
+    material: minecraft:diorite
+    height:
+      min: 0
+      max: 256
