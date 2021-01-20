@@ -1,3 +1,4 @@
 [submodule "GoodMC preset"]
 	path = GoodMCExtreme/preset
-	url = https://github.com/Envel-Nikita-Gutsenkov/Goodmc.-Original.-Source-code.-/tree/master/server/plugins/RealisticWorldGenerator
+	url = https://github.com/Envel-Nikita-Gutsenkov/Goodmc.-Original.-Source-code.-.git
+	branch = master
