@@ -90,11 +90,11 @@ Then follow the normal RWG Installation steps to create a world and you're done.
 <br />
 [**GoodMC Extreme**][preset-goodmc] by GoodMC.ru
 <br />
-<img src="GoodMC Extreme/images/Taiga.jpg" />
+<img src="GoodMCExtreme/images/Taiga.jpg" />
 <br />
-<img src="GoodMC Extreme/images/SnowyTaiga.jpg" />
+<img src="GoodMCExtreme/images/SnowyTaiga.jpg" />
 <br />
-<img src="GoodMC Extreme/images/IceSpikes.jpg" />
+<img src="GoodMCExtreme/images/IceSpikes.jpg" />
 <br />
 
 <!-- CONTRIBUTING -->
