@@ -86,13 +86,11 @@ Then follow the normal RWG Installation steps to create a world and you're done.
 
 <details>
   <summary><a href="Islands"><strong>Islands</strong></a> by SyntaxPhoenix</summary>
-  <br />
   <img src="Islands/images/Island.jpg">
 </details>
 
 <details>
   <summary><a href="GoodMCExtreme"><strong>GoodMC Extreme</strong></a> by GoodMC.ru</summary>
-  <br />
   <img src="GoodMCExtreme/images/Taiga.jpg" />
   <br />
   <img src="GoodMCExtreme/images/SnowyTaiga.jpg" />
