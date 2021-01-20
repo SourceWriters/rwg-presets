@@ -17,4 +17,4 @@ _Description comming soon_
 
 <br/>
 
-<img src="images/Mars.png" />
+<img src="images/Mars.jpg" />
