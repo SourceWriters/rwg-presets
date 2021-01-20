@@ -1,0 +1,48 @@
+grow:
+  replaceBlocks: false
+saplings:
+  pine:
+  - TAIGA_TREE_1
+  - TAIGA_TREE_2
+  - TAIGA_TREE_3
+  - TAIGA_TREE_4
+  - TAIGA_TREE_5
+  - TAIGA_TREE_6
+  - TAIGA_TREE_7
+  - TAIGA_TREE_8
+  - TAIGA_TREE_9
+  - TAIGA_TREE_10
+  - TAIGA_TREE_11
+  - TAIGA_TREE_12
+  birch:
+  - BIRCH_TREE_1
+  - BIRCH_TREE_2
+  - BIRCH_TREE_3
+  - BIRCH_TREE_4
+  oak:
+  - BIG_OAK_TREE_1
+  - BIG_OAK_TREE_2
+  - BIG_OAK_TREE_3
+  - BIG_OAK_TREE_4
+  - OAK_TREE_1
+  - OAK_TREE_2
+  - OAK_TREE_3
+  - OAK_TREE_4
+  - OAK_TREE_5
+  dark:
+  - ROOF_TREE_1
+  - ROOF_TREE_2
+  - ROOF_TREE_3
+  - ROOF_TREE_4
+  acacia:
+  - SAVANA_TREE_1
+  - SAVANA_TREE_2
+  - SAVANA_TREE_3
+  - SAVANA_TREE_4
+  jungle:
+  - JUNGLE_TREE_1
+  - JUNGLE_TREE_2
+  - JUNGLE_TREE_3
+  - JUNGLE_TREE_4
+  - JUNGLE_TREE_5
+  - JUNGLE_TREE_6

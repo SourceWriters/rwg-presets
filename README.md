@@ -40,9 +40,9 @@
   <p align="center">
     <!-- TODO: project_description -->
     <br />
-    <a href="https://github.com/SourceWriters/rwg-presets/issues">Report Bug</a>
+    <a href="https://github.com/SourceWriters/rwg-presets/issues/new?labels=bug&title=[Repository]%20Bug%20found">Report Bug</a>
     ·
-    <a href="https://github.com/SourceWriters/rwg-presets/issues">Request Preset</a>
+    <a href="https://github.com/SourceWriters/rwg-presets/issues/new?labels=enhancement&title=Preset%20request">Request Preset</a>
   </p>
 </p>
 
