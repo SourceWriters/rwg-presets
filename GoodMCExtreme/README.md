@@ -5,15 +5,11 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/SourceWriters/rwg-presets/issues/new?labels=bug&title=[GoodMC%20Extreme]%20Bug%20found">Report Bug</a>
+    <a href="https://github.com/Envel-Nikita-Gutsenkov/Goodmc.-Original.-Source-code.-/issues/new?labels=БАГ&title=[RWG%20config]%20Bug%20found">Report Bug</a>
     ·
-    <a href="https://github.com/SourceWriters/rwg-presets/issues/new?labels=enhancement&title=[GoodMC%20Extreme]%20Feature%20request">Request a feature</a>
+    <a href="https://github.com/Envel-Nikita-Gutsenkov/Goodmc.-Original.-Source-code.-/issues/new?labels=Вопрос&title=[RWG%20config]%20Feature%20request">Request a feature</a>
   </p>
 </p>
-
-<br/>
-
-_Description comming soon_
 
 <br/>
 
