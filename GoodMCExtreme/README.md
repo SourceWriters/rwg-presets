@@ -18,19 +18,11 @@ _Description comming soon_
 <br/>
 
 <img src="images/Desert.jpg" />
-<br/>
 <img src="images/BirchForest.jpg" />
-<br/>
 <img src="images/Swamp.jpg" />
-<br/>
 <img src="images/Jungle.jpg" />
-<br/>
 <img src="images/PlainsJungle.jpg" />
-<br/>
 <img src="images/Savanna.jpg" />
-<br/>
 <img src="images/Taiga.jpg" />
-<br/>
 <img src="images/SnowyTaiga.jpg" />
-<br/>
 <img src="images/IceSpikes.jpg" />
