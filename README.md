@@ -84,18 +84,20 @@ Then follow the normal RWG Installation steps to create a world and you're done.
 <!-- CONTRIBUTING -->
 ## Examples
 
-[**Islands**][preset-islands] by SyntaxPhoenix
-<br />
-<img src="Islands/images/Island.jpg">
+<details>
+  <summary>[**Islands**][preset-islands] by SyntaxPhoenix</summary>
+  <img src="Islands/images/Island.jpg">
+</details>
 <br />
 
-[**GoodMC Extreme**][preset-goodmc] by GoodMC.ru
-<br />
-<img src="GoodMCExtreme/images/Taiga.jpg" />
-<br />
-<img src="GoodMCExtreme/images/SnowyTaiga.jpg" />
-<br />
-<img src="GoodMCExtreme/images/IceSpikes.jpg" />
+<details>
+  <summary>[**GoodMC Extreme**][preset-goodmc] by GoodMC.ru</summary>
+  <img src="GoodMCExtreme/images/Taiga.jpg" />
+  <br />
+  <img src="GoodMCExtreme/images/SnowyTaiga.jpg" />
+  <br />
+  <img src="GoodMCExtreme/images/IceSpikes.jpg" />
+</details>
 <br />
 
 <!-- CONTRIBUTING -->
