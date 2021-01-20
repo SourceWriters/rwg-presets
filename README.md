@@ -85,13 +85,13 @@ Then follow the normal RWG Installation steps to create a world and you're done.
 ## Examples
 
 <details>
-  <summary>[**Islands**][preset-islands] by SyntaxPhoenix</summary>
+  <summary><a href="Islands"><strong>Islands</strong></a> by SyntaxPhoenix</summary>
   <img src="Islands/images/Island.jpg">
 </details>
 <br />
 
 <details>
-  <summary>[**GoodMC Extreme**][preset-goodmc] by GoodMC.ru</summary>
+  <summary><a href="GoodMCExtreme"><strong>GoodMC Extreme</strong></a> by GoodMC.ru</summary>
   <img src="GoodMCExtreme/images/Taiga.jpg" />
   <br />
   <img src="GoodMCExtreme/images/SnowyTaiga.jpg" />
@@ -146,6 +146,3 @@ Project Link: [https://github.com/SourceWriters/rwg-presets](https://github.com/
 [rwg-issue-url]: https://gitlab.com/SyntaxPhoenix/RealisticWorldApi/-/issues
 [rwg-spigot-url]: https://www.spigotmc.org/resources/1-8-1-16-5-realisticworldgenerator.15905/
 [rwg-polymart-url]: https://polymart.org/resource/realistic-world-generator.124/
-
-[preset-goodmc]: https://github.com/SourceWriters/rwg-presets/tree/master/GoodMCExtreme
-[preset-Islands]: https://github.com/SourceWriters/rwg-presets/tree/master/Islands
