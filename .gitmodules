@@ -1,3 +1,6 @@
 [submodule "TavernCompendium/preset"]
 	path = TavernCompendium/preset
 	url = https://github.com/Waywardson22/Tavern-Compendium
+[submodule "GoodMCExtreme/preset"]
+	path = GoodMCExtreme/preset
+	url = https://github.com/Envel-Nikita-Gutsenkov/GoodMC-Original-RealisticWorld-Epic-Config.git
