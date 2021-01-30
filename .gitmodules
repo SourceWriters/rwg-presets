@@ -1,7 +1,3 @@
-[submodule "GoodMCExtreme/preset"]
-	path = GoodMCExtreme/preset
-	url = https://github.com/Envel-Nikita-Gutsenkov/GoodMC-Original-RealisticWorld-Epic-Config
-	branch = master
 [submodule "TavernCompendium/preset"]
 	path = TavernCompendium/preset
 	url = https://github.com/Waywardson22/Tavern-Compendium
