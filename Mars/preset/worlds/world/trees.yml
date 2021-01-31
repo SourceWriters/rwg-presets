@@ -1,19 +1,56 @@
 grow:
   replaceBlocks: false
+  enabled: true
+replacement:
+  blocks:
+    acacia_fence:
+      material: ACACIA_FENCE
+      replace_material: AIR
+    jungle_fence:
+      material: JUNGLE_FENCE
+      replace_material: AIR
+    birch_fence:
+      material: BIRCH_FENCE
+      replace_material: AIR
+    oak_fence:
+      material: OAK_FENCE
+      replace_material: AIR
+    nether_brick_fence:
+      material: NETHER_BRICK_FENCE
+      replace_material: AIR
+    spruce_fence:
+      material: SPRUCE_FENCE
+      replace_material: AIR
+    dark_oak_fence:
+      material: DARK_OAK_FENCE
+      replace_material: AIR
+  trees:
+  - OAK_TREE_1
+  - OAK_TREE_2
+  - OAK_TREE_3
+  - OAK_TREE_4
+  - OAK_TREE_5
+  enabled: false
 saplings:
   pine:
-  - TAIGA_TREE_1
-  - TAIGA_TREE_2
-  - TAIGA_TREE_3
-  - TAIGA_TREE_4
-  - TAIGA_TREE_5
-  - TAIGA_TREE_6
-  - TAIGA_TREE_7
-  - TAIGA_TREE_8
-  - TAIGA_TREE_9
-  - TAIGA_TREE_10
-  - TAIGA_TREE_11
-  - TAIGA_TREE_12
+    normal:
+    - PINE_TREE_1
+    - PINE_TREE_2
+    - PINE_TREE_3
+    - PINE_TREE_4
+    - PINE_TREE_5
+    - PINE_TREE_6
+    - PINE_TREE_7
+    - PINE_TREE_8
+    - PINE_TREE_9
+    - PINE_TREE_10
+    - PINE_TREE_11
+    - PINE_TREE_12
+    giant:
+    - TAIGA_TREE_5
+    - TAIGA_TREE_6
+    - TAIGA_TREE_7
+    - TAIGA_TREE_9
   birch:
   - BIRCH_TREE_1
   - BIRCH_TREE_2
@@ -30,19 +67,25 @@ saplings:
   - OAK_TREE_4
   - OAK_TREE_5
   dark:
-  - ROOF_TREE_1
-  - ROOF_TREE_2
-  - ROOF_TREE_3
-  - ROOF_TREE_4
+    giant:
+    - ROOF_TREE_2
+    - ROOF_TREE_3
+    - ROOF_TREE_4
   acacia:
   - SAVANA_TREE_1
   - SAVANA_TREE_2
   - SAVANA_TREE_3
   - SAVANA_TREE_4
   jungle:
-  - JUNGLE_TREE_1
-  - JUNGLE_TREE_2
-  - JUNGLE_TREE_3
-  - JUNGLE_TREE_4
-  - JUNGLE_TREE_5
-  - JUNGLE_TREE_6
+    normal:
+    - JUNGLE_TREE_1
+    - JUNGLE_TREE_2
+    - JUNGLE_TREE_3
+    - JUNGLE_TREE_4
+    - JUNGLE_TREE_5
+    - JUNGLE_TREE_6
+    giant:
+    - JUNGLE_TREE_2
+    - JUNGLE_TREE_3
+    - JUNGLE_TREE_5
+    - JUNGLE_TREE_6

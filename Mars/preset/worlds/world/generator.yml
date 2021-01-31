@@ -158,6 +158,9 @@ generators:
       height: 0.5
   generate:
     villages: false
+    mineshafts:
+      chance: 16
+      enabled: false
   sea:
     level: 0
   height:
